@@ -22,7 +22,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://jwt-auth-project-20-05-26-ew8x.vercel.app/",
+    origin: "https://jwt-auth-project-20-05-26-uqdq.vercel.app/",
     credentials: true,
   })
 );
